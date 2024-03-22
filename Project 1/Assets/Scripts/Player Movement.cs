@@ -13,10 +13,6 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private float moveSpeed = 7f;
     [SerializeField] private float jumpForce = 14f;
 
-    int wholeNumber = 16;
-    float decimalNumber = 4.54f;
-    string text = "blabla";
-    bool boolean = false;
 
     void Start()
     {
